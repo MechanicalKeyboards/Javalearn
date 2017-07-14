@@ -5,5 +5,7 @@ package com.javalearn.lesson1;
  */
 public class Main {
     public static void main(String[] args) {
+        System.out.println("/\\\n\\/");
         System.out.println("\"I do not fear computers. I fear the lack of them.\"\nIsaac Asimov");
+        System.out.println("   _\n /   \\\n|     |\n \\ _ /");
     }}
