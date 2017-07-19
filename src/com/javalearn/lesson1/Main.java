@@ -3,9 +3,14 @@ package com.javalearn.lesson1;
 /**
  * Created by Bob on 6/27/2017.
  */
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("/\\\n\\/");
-        System.out.println("\"I do not fear computers. I fear the lack of them.\"\nIsaac Asimov");
-        System.out.println("   _\n /   \\\n|     |\n \\ _ /");
-    }}
+import java.util.Scanner;
+class Main{
+    public static void main(String args[]){
+        Scanner sc=new Scanner(System.in);
+
+        System.out.println("Enter your name");
+        String name=sc.next();
+        System.out.println("Hi"+name+", nice to see you.");
+        sc.close();
+    }
+}
