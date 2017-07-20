@@ -1,4 +1,4 @@
-package com.javalearn.lesson1;
+package com.javalearn.unit1.lesson3;
 
 /**
  * Created by Bob on 6/27/2017.
@@ -6,7 +6,7 @@ package com.javalearn.lesson1;
 
 import java.util.Scanner;
 
-class Main {
+class Activity1 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
 
