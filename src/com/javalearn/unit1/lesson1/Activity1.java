@@ -5,6 +5,6 @@ package com.javalearn.unit1.lesson1;
  */
 class Activity1 {
     public static void main(String args[]) {
-        System.out.println("\t\t\tMark");
+        System.out.println("\t\t\t\tMark");
     }
 }
