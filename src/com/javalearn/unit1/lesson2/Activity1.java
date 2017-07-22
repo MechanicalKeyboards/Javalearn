@@ -5,7 +5,7 @@ package com.javalearn.unit1.lesson2;
  */
 public class Activity1 {
     public static void main(String[] args) {
-        System.out.println("/\\\n\\/");
+        System.out.println("/\\\n\\/ ");
     }
 }
 
