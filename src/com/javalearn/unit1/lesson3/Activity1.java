@@ -12,7 +12,7 @@ class Activity1 {
 
         System.out.println("Enter your name");
         String name = sc.next();
-        System.out.println("Hi " + name + ", nice to see you.");
+        System.out.println("Hi " + name + ", nice to see you!");
         sc.close();
     }
 }
