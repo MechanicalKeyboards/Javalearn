@@ -7,11 +7,13 @@ import java.util.Scanner;
 public class Activity2 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter your name");
-        String name = sc.next();
-        System.out.println("Enter an adjective describing you");
-        String adj = sc.next();
-        System.out.println("My name is" + name + ", I am" + adj );
+        System.out.println("Enter a name");
+        String name1 = sc.next();
+        System.out.println("Enter another one");
+        String name2 = sc.next();
+        System.out.println("Enter one more");
+        String name3 = sc.next();
+        System.out.println(name3 + " " + name2 + " " + name1);
 
 
     }
