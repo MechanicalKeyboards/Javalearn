@@ -6,7 +6,7 @@ public class Activity3 {
         System.out.println("Enter the radius of a circle");
         float radius = scan.nextFloat();
         double area = 2 * 3.14159265 * radius;
-        double circumference = 3.14159265 * radius ^ 2.0;
+        double circumference = 3.14159265 * radius * radius;
         System.out.println("The area is: " + area + "The circumference is: " + circumference);
 
 
